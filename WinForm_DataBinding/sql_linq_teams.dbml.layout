@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="sql_linq_teams">
+  <DataContextMoniker Name="/sql_linq_teamsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="99fe51a2-a561-4983-8efa-e91fc46f104d" absoluteBounds="1.125, 1.5, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/sql_linq_teamsDataContext/linq_team" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b890bd6-1db0-4009-84b5-a96a52c0678b" absoluteBounds="1.1400000000000001, 1.96, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="199e1343-72cf-480d-84c4-dc04cfc4bf74" absoluteBounds="1.125, 3.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/sql_linq_teamsDataContext/linq_member" />
+      <nestedChildShapes>
+        <elementListCompartment Id="acdf77ad-3161-448d-898a-09c5b7a364cb" absoluteBounds="1.1399999999999997, 3.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,16 @@
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\WinForm_DataBinding.exe.config
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\WinForm_DataBinding.exe
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\WinForm_DataBinding.pdb
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\Google.Protobuf.dll
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\Renci.SshNet.dll
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\Google.Protobuf.xml
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\bin\Debug\Renci.SshNet.xml
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding_sql.csprojAssemblyReference.cache
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding.DataForm.resources
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding.Properties.Resources.resources
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding_sql.csproj.GenerateResource.cache
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding_sql.csproj.CoreCompileInputs.cache
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding_sql.csproj.CopyComplete
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding.exe
+C:\Users\aperinge\source\repos\WinForm_DataBinding_sql\WinForm_DataBinding\obj\Debug\WinForm_DataBinding.pdb

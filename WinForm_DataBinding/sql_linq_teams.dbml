@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="teams" Class="sql_linq_teamsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CZECLBRNAPE1;Initial Catalog=teams;Persist Security Info=True;User ID=aperinge" SettingsObjectName="WinForm_DataBinding.Properties.Settings" SettingsPropertyName="teamsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.teams" Member="linq_teams">
+    <Type Name="linq_team">
+      <Column Name="TeamId" Type="System.String" DbType="VarChar(50)" IsPrimaryKey="true" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.members" Member="linq_members">
+    <Type Name="linq_member">
+      <Column Name="Username" Type="System.String" DbType="VarChar(50)" IsPrimaryKey="true" CanBeNull="true" />
+      <Column Name="FullName" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+      <Column Name="TeamId" Type="System.String" DbType="VarChar(80)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
